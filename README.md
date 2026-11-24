@@ -62,7 +62,7 @@ Explore my repositories to discover projects involving:
 ### 🌐 Connect With Me
 
 - 💼 LinkedIn: [Ujjwal Tyagi](https://www.linkedin.com/in/ujjwal-tyagi-5a097543a/)
-- 🐙 GitHub: [@Uj1710glitch](https://github.com/Uj1710glitch)
+- 🐙 GitHub: [@Uj1710glitch](https://github.com/NOXWAL)
 
 ---
 
