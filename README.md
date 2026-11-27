@@ -53,11 +53,11 @@ Explore my repositories to discover projects involving:
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uj1710glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NOXWAL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uj1710glitch&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOXWAL&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Uj1710glitch&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=NOXWAL&theme=tokyonight&hide_border=true)
 
 ### 🌐 Connect With Me
 
